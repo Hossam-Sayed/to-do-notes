@@ -7,24 +7,12 @@
 Introduction
 ------------
 
-TO-DO Notes is an app where you to write down tasks to complete. The app displays them in a list.
+TO-DO Notes is an app where you write down tasks to complete. The app displays them in a list.
 You can then mark them as completed or not, filter them and delete them.
 
 ![App main screen, screenshot](screenshot.png)
 
-This codelab has four branches, representing different code states:
-
-* [starter_code](https://github.com/googlecodelabs/android-testing/tree/starter_code)
-* [end_codelab_1](https://github.com/googlecodelabs/android-testing/tree/end_codelab_1)
-* [end_codelab_2](https://github.com/googlecodelabs/android-testing/tree/end_codelab_2)
-* [end_codelab_3](https://github.com/googlecodelabs/android-testing/tree/end_codelab_3)
-
-The codelabs in this series are:
-* [Testing Basics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-basics)
-* [Introduction to Test Doubles and Dependency Injection](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-test-doubles)
-* [Survey of Testing Topics](https://codelabs.developers.google.com/codelabs/advanced-android-kotlin-training-testing-survey)
-
-Getting Started
+Try it out!
 ---------------
 
 Download and run the app.
