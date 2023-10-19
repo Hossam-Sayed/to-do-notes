@@ -1,5 +1,8 @@
 <div align="center">
+<img src="https://github.com/Hossam-Sayed/to-do-notes/blob/main/app/src/main/res/drawable/logo_no_fill.png" width=300/>
 
+# TO-DO Notes
+  
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <div align="left">
